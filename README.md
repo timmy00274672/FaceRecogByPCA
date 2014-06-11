@@ -25,4 +25,5 @@ Just run the `script.m`.
 ## Result
 
 You may see the reslut like :
+
 ![result](https://raw.githubusercontent.com/timmy00274672/FaceRecogByPCA/master/result/result.jpg)
