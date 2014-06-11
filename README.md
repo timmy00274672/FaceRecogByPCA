@@ -25,4 +25,4 @@ Just run the `script.m`.
 ## Result
 
 You may see the reslut like :
-![result](https://github.com/timmy00274672/FaceRecogByPCA/blob/master/result/result.jpg)
+![result](https://raw.githubusercontent.com/timmy00274672/FaceRecogByPCA/master/result/result.jpg)
