@@ -11,5 +11,6 @@ function [ recognized_img ] = facerecog( trainingDataPathList, testImgPath )
 %}
 
 
+
 end
 
